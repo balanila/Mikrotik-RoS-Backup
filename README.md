@@ -26,5 +26,5 @@ In the script you have to specify variables:
 * Change variables to indicate yours dirs
 * Generate RSA keypair and install public key on each RoS
 * Fill node_list with ip addesses. Attention: empty space is not allowed
-
+* set user name
 
